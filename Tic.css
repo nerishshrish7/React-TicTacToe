@@ -1,0 +1,12 @@
+#cell img{
+    height: 8.5vh;
+    width: 4vw;
+}
+#title img{
+    height: 7vh;
+    width: 3.5vw;
+    margin-top: 2vh;
+}
+#title span{
+    color: aqua;
+}
